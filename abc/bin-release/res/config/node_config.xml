@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<node name="欢迎词"file_name="HG1S00P02"need_folder="1"/>
+	<node name="汉高简介"file_name="HG1S00P03">
+						<node name="汉高集团简介"file_name="HG1S01P01">
+											<node name="荣誉"file_name="HG1S01P02"/>
+											<node name="历史（开创）"file_name="HG1S01P03"/>
+											<node name="历史（发展）"file_name="HG1S01P04"/>
+											<node name="概况"file_name="HG1S01P05"/>
+											<node name="主要品牌"file_name="HG1S01P06"/>
+											<node name="组织架构"file_name="HG1S01P07"/>
+											<node name="新兴市场"file_name="HG1S01P08"/>
+											<node name="战略优势"file_name="HG1S01P11"/>
+											<node name="愿景和价值观"file_name="HG1S01P12"/>
+											<node name="三大准则"file_name="HG1S01P13"/>
+											<node name="商业行为准则"file_name="HG1S01P14"/>
+											<node name="社会责任1"file_name="HG1S01P15"/>
+											<node name="社会责任2"file_name="HG1S01P16"/>
+											<node name="可以做的事"file_name="HG1S01P17"/>
+											<node name="练习题1"file_name="HG1S01P09"/>
+											<node name="练习题2"file_name="HG1S01P10"/>
+											<node name="练习题3"file_name="HG1S01P18"/>
+						</node>
+						<node name="汉高中国简介"file_name="HG1S02P01">
+											<node name="历史"file_name="HG1S02P02"/>
+											<node name="中国业务"file_name="HG1S02P03"/>
+											<node name="化妆品事业部1"file_name="HG1S02P04"/>
+											<node name="化妆品事业部2"file_name="HG1S02P05"/>
+											<node name="化妆品事业部3"file_name="HG1S02P06"/>
+											<node name="练习题"file_name="HG1S02P07"/>
+						</node>
+						<node name="章节回顾"file_name="HG1S02P08"/>
+	</node>
+	<node name="品牌、产品介绍"file_name="HG2S00P00">
+							<node name="章节概述"file_name="HG2S00P01"/>
+							<node name="施华蔻"file_name="HG2S01P01">
+												<node name="品牌历史"file_name="HG2S01P02"/>
+												<node name="目标消费群"file_name="HG2S01P03"/>
+												<node name="产品系列"file_name="HG2S01P04"/>
+												<node name="系列1"file_name="HG2S01P05"/>
+												<node name="系列2"file_name="HG2S01P06"/>
+												<node name="系列3"file_name="HG2S01P07"/>
+												<node name="系列4"file_name="HG2S01P08"/>
+												<node name="系列5"file_name="HG2S01P09"/>
+												<node name="系列6"file_name="HG2S01P10"/>
+												<node name="系列7"file_name="HG2S01P11"/>
+												<node name="销售策略"file_name="HG2S01P13"/>
+												<node name="EC销售策略"file_name="HG2S01P14"/>
+												<node name="陈列标准"file_name="HG2S01P15"/>
+												<node name=" 练习题"file_name="HG2S01P12"/>
+												<node name="小结"file_name="HG2S01P16"/>
+							</node>
+							<node name="丝蕴"file_name="HG2S02P01">
+												<node name="品牌大事记"file_name="HG2S02P02"/>
+												<node name="丝蕴洗护"file_name="HG2S02P03"/>
+												<node name="洗护系列1"file_name="HG2S02P04"/>
+												<node name="洗护系列2"file_name="HG2S02P05"/>
+												<node name="洗护系列3"file_name="HG2S02P06"/>
+												<node name="洗护系列4"file_name="HG2S02P07"/>
+												<node name="护发四步骤"file_name="HG2S02P08"/>
+												<node name="丝蕴造型"file_name="HG2S02P09"/>
+												<node name="造型系列1"file_name="HG2S02P10"/>
+												<node name="造型系列2"file_name="HG2S02P11"/>
+												<node name="造型系列3"file_name="HG2S02P12"/>
+												<node name="丝蕴染发"file_name="HG2S02P13"/>
+												<node name="染发系列"file_name="HG2S02P14"/>
+												<node name="丝蕴男士"file_name="HG2S02P15"/>
+												<node name="男士洗护"file_name="HG2S02P16"/>
+												<node name="男士造型"file_name="HG2S02P17"/>
+												<node name="销售策略"file_name="HG2S02P18"/>
+												<node name="产品卖点"file_name="HG2S02P19"/>
+												<node name="产品定位"file_name="HG2S02P20"/>
+												<node name="产品陈列"file_name="HG2S02P21"/>
+												<node name="促销形式"file_name="HG2S02P22"/>
+												<node name="练习题1"file_name="HG2S02P24"/>
+												<node name="练习题2"file_name="HG2S02P25"/>
+												<node name="小结"file_name="HG2S02P23"/>
+							</node>
+							<node name="got2b"file_name="HG2S03P01">
+												<node name="品牌简介"file_name="HG2S03P02"/>
+												<node name="产品系列"file_name="HG2S03P03"/>
+												<node name="造型产品1"file_name="HG2S03P04"/>
+												<node name="造型产品2"file_name="HG2S03P05"/>
+												<node name="造型产品3"file_name="HG2S03P06"/>
+												<node name="问答时间"file_name="HG2S03P07"/>
+							</node>
+							<node name="染发产品"file_name="HG2S04P01">
+												<node name="分类"file_name="HG2S04P02"/>
+												<node name="施华蔻怡然"file_name="HG2S04P03"/>
+												<node name="施华蔻幻彩"file_name="HG2S04P04"/>
+												<node name="光明"file_name="HG2S04P05"/>
+												<node name="光明奢韵"file_name="HG2S04P06"/>
+												<node name="光明蓓泽丝"file_name="HG2S04P07"/>
+							</node>
+							<node name="孩儿面"file_name="HG2S05P01">
+												<node name="品牌简介"file_name="HG2S05P02"/>
+												<node name="产品系列"file_name="HG2S05P03"/>
+												<node name="系列1"file_name="HG2S05P04"/>
+												<node name="系列2"file_name="HG2S05P05"/>
+												<node name="系列3"file_name="HG2S05P06"/>
+												<node name="系列4"file_name="HG2S05P07"/>
+												<node name="系列5"file_name="HG2S05P08"/>
+												<node name="系列6"file_name="HG2S05P09"/>
+												<node name="系列7"file_name="HG2S05P10"/>
+												<node name="系列8"file_name="HG2S05P11"/>
+												<node name="系列9"file_name="HG2S05P12"/>
+												<node name="陈列标准"file_name="HG2S05P13"/>
+												<node name="货架陈列"file_name="HG2S05P14"/>
+												<node name="练习题"file_name="HG2S05P16"/>
+												<node name="小结"file_name="HG2S05P15"/>
+							</node>
+							<node name="Fa"file_name="HG2S06P01">
+												<node name="品牌简介"file_name="HG2S06P02"/>
+												<node name="产品系列"file_name="HG2S06P03"/>
+							</node>
+							<node name="章节回顾"file_name="HG2S07P01"/>
+	</node>
+	<node name="业务流程简介"file_name="HG3S00P00">
+							<node name="章节概述"file_name="HG3S01P01"/>
+							<node name="销售渠道、销售员职责"file_name="HG3S01P02">
+												<node name="行政区划分"file_name="HG3S01P03"/>
+												<node name="现代通路"file_name="HG3S01P04"/>
+												<node name="传统通路"file_name="HG3S01P05"/>
+												<node name="覆盖概念"file_name="HG3S01P06"/>
+												<node name="覆盖顺序"file_name="HG3S01P07"/>
+												<node name="市场分类级别"file_name="HG3S01P08"/>
+												<node name="终端覆盖模式"file_name="HG3S01P09"/>
+												<node name="分销标准1"file_name="HG3S01P10"/>
+												<node name="分销标准2"file_name="HG3S01P11"/>
+												<node name="陈列标准"file_name="HG3S01P12"/>
+												<node name="销售员角色"file_name="HG3S01P13"/>
+												<node name="SFA系统"file_name="HG3S01P14"/>
+												<node name="考核标准"file_name="HG3S01P15"/>
+												<node name="练习题1"file_name="HG3S01P16"/>
+												<node name="练习题2"file_name="HG3S01P17"/>
+												<node name="练习题3"file_name="HG3S01P18"/>
+												<node name="练习题4"file_name="HG3S01P19"/>
+												<node name="练习题5"file_name="HG3S01P20"/>
+							</node>
+							<node name="控制部费用流程"file_name="HG3S02P01">
+												<node name="简介"file_name="HG3S02P02"/>
+												<node name="销售费用"file_name="HG3S02P03"/>
+												<node name="费用分类"file_name="HG3S02P04"/>
+												<node name="时间进度"file_name="HG3S02P05"/>
+												<node name="核销流程1"file_name="HG3S02P06"/>
+												<node name="核销流程2"file_name="HG3S02P07"/>
+							</node>
+							<node name="客户服务部"file_name="HG3S03P01">
+												<node name="部门职责"file_name="HG3S03P02"/>
+							</node>
+							<node name="章节回顾"file_name="HG3S03P03"/>
+	</node>
+	<node name="课程小结"file_name="HG4S00P00"need_folder="1"/>
+</root>
