@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<node name="欢迎进入"file_name="LKK1S00P00"/>
+	<node name="课程概述"file_name="LKK1S00P01"/>
+	<node name="准备与计划"file_name="LKK1S01P00">
+							<node name="路线计划1"file_name="LKK1S01P01"/>
+							<node name="路线计划2"file_name="LKK1S01P02"/>
+							<node name="路线计划3"file_name="LKK1S01P03"/>
+							<node name="路线计划4"file_name="LKK1S01P04"/>
+							<node name="了解客户情况"file_name="LKK1S01P05"/>
+							<node name="回顾拜访记录"file_name="LKK1S01P06"/>
+							<node name="检查促销内容"file_name="LKK1S01P07"/>
+							<node name="SMART原则"file_name="LKK1S01P08"/>
+							<node name="设定目标"file_name="LKK1S01P09"/>
+							<node name="销售工具"file_name="LKK1S01P10"/>
+							<node name="练习题1"file_name="LKK1S01P11"/>
+							<node name="练习题2"file_name="LKK1S01P12"/>
+							<node name="练习题3"file_name="LKK1S01P13"/>
+	</node>
+	<node name="店情察看"file_name="LKK1S02P00">
+							<node name="门店库存"file_name="LKK1S02P01"/>
+							<node name="陈列原则"file_name="LKK1S02P02"/>
+							<node name="仓库库存"file_name="LKK1S02P03"/>
+							<node name="准备订单"file_name="LKK1S02P04"/>
+							<node name="练习题1"file_name="LKK1S02P05"/>
+							<node name="练习题2"file_name="LKK1S02P06"/>
+	</node>
+	<node name="接洽与介绍"file_name="LKK1S03P00">
+							<node name="第一印象"file_name="LKK1S03P01"/>
+							<node name="自我介绍"file_name="LKK1S03P02"/>
+							<node name="情境模拟"file_name="LKK1S03P03"/>
+	</node>
+	<node name="销售卖进"file_name="LKK1S04P00">
+							<node name="沟通技巧"file_name="LKK1S04P01"/>
+							<node name="情境模拟"file_name="LKK1S04P02"/>
+	</node>
+	<node name="达成协议"file_name="LKK1S05P00">
+							<node name="销售技巧"file_name="LKK1S05P01"/>
+							<node name="情境模拟"file_name="LKK1S05P02"/>
+	</node>
+	<node name="采取行动"file_name="LKK1S06P00">
+							<node name="概述"file_name="LKK1S06P01"/>
+	</node>
+	<node name="拜访结束"file_name="LKK1S07P00">
+							<node name="概述"file_name="LKK1S07P01"/>
+							<node name="情境模拟"file_name="LKK1S07P02"/>
+							<node name="回到办公室"file_name="LKK1S07P03"/>
+							<node name="练习题"file_name="LKK1S08P01"/>
+	</node>
+	<node name="课程回顾"file_name="LKK1S09P01"/>
+</root>
