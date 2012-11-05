@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<node name="欢迎进入"file_name="LKK2S00P01"need_folder="1"/>
+	<node name="课程概述"file_name="LKK2S01P01"need_folder="1"/>
+	<node name="故事开场1"file_name="LKK2S01P02"need_folder="1"/>
+	<node name="故事开场2"file_name="LKK2S01P03"need_folder="1"/>
+	<node name="沟通的阻碍"file_name="LKK2S01P04">
+			<node name="价值判断1"file_name="LKK2S01P05"/>
+			<node name="价值判断2"file_name="LKK2S01P06"/>
+			<node name="立场僵硬1"file_name="LKK2S01P07"/>
+			<node name="立场僵硬2"file_name="LKK2S01P08"/>
+			<node name="其他阻碍"file_name="LKK2S01P09"/>
+			<node name="目的不明"file_name="LKK2S01P10"/>
+			<node name="时间压力"file_name="LKK2S01P11"/>
+			<node name="小贴士"file_name="LKK2S01P12"/>
+			<node name="练习题1"file_name="LKK2S01P13"/>
+			<node name="练习题2"file_name="LKK2S01P14"/>
+			<node name="练习题3"file_name="LKK2S01P15"/>
+			<node name="练习题4"file_name="LKK2S01P16"/>
+			<node name="章节回顾"file_name="LKK2S01P17"/>
+	</node>
+			<node name="打开沟通之窗"file_name="LKK2S02P01">
+			<node name="聆听技巧1"file_name="LKK2S02P02"/>
+			<node name="聆听技巧2"file_name="LKK2S02P03"/>
+			<node name="聆听技巧3"file_name="LKK2S02P04"/>
+			<node name="肢体语言1"file_name="LKK2S02P05"/>
+			<node name="肢体语言2"file_name="LKK2S02P06"/>
+			<node name="肢体语言3"file_name="LKK2S02P07"/>
+			<node name="体态姿势"file_name="LKK2S02P08"/>
+			<node name="面部表情"file_name="LKK2S02P09"/>
+			<node name="手势"file_name="LKK2S02P10"/>
+			<node name="语气语速"file_name="LKK2S02P11"/>
+			<node name="开场白1"file_name="LKK2S02P12"/>
+			<node name="开场白2"file_name="LKK2S02P13"/>
+			<node name="提问方式1"file_name="LKK2S02P14"/>
+			<node name="提问方式2"file_name="LKK2S02P15"/>
+			<node name="练习题1"file_name="LKK2S02P16"/>
+			<node name="练习题2"file_name="LKK2S02P17"/>
+			<node name="练习题3"file_name="LKK2S02P18"/>
+			<node name="章节回顾"file_name="LKK2S02P19"/>
+	</node>
+			<node name="防止“窗帘拉下”"file_name="LKK2S04P01">
+			<node name="四种信号1"file_name="LKK2S04P02"/>
+			<node name="四种信号2"file_name="LKK2S04P03"/>
+			<node name="应对措施"file_name="LKK2S04P04"/>
+			<node name="练习题"file_name="LKK2S04P05"/>
+	</node>
+	<node name="课程回顾"file_name="LKK2S04P06"need_folder="1"/>
+</root>
