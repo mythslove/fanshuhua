@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<!-- 游戏服务器 -->
+	<server_ip value="127.0.0.1" />
+	<!-- 登陆端口 -->
+	<server_port value="8000" />
+	<!-- 安全策略文件加载端口 -->
+	<server_security_port value="8001" />
+	<!-- 版本号 -->
+	<version value="v201209121110" />
+	<!-- 游戏配置文件地址 -->
+	<game_config_folder value="../res/config/" />
+	<!-- 地图资源地址 -->
+	<map_res_folder value="../res/img/map/" />
+	<!-- 地图特效地址 -->
+	<map_eff_folder value="../res/img/mapeff/" />
+	<!-- 角色形象地址 -->
+	<fullBody_folder value="../res/img/role/" />
+</config>

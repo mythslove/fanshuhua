@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--npc系统配置表-->
+<root>
+    <npclist>
+    	<npc npc_id="11001" npc_name="张文远" module_id="20003" npc_level="20"hp="140" />
+		<npc npc_id="11002" npc_name="曹孟德" module_id="20004" npc_level="24"hp="150" />
+		<npc npc_id="11003" npc_name="许褚" module_id="20005" npc_level="25"hp="300" />
+		
+	    <npc npc_id="12001" npc_name="关云长" module_id="20001" npc_level="13"hp="100" />
+	    <npc npc_id="12002" npc_name="张翼德" module_id="20002" npc_level="3"hp="100" />
+	    <npc npc_id="12003" npc_name="诸葛亮"  module_id="20003"npc_level="50"hp="440" />
+	    <npc npc_id="12004" npc_name="马超"  module_id="20004" npc_level="7"hp="130" />
+		
+		 <npc npc_id="13001" npc_name="周公瑾"  module_id="20005" npc_level="8"hp="130" />
+		<npc npc_id="13002" npc_name="太史慈" module_id="20001" npc_level="11"hp="130" />
+		<npc npc_id="13003" npc_name="小乔" module_id="20002" npc_level="23"hp="300" />
+		
+		<npc npc_id="14001" npc_name="木鹿大王" module_id="20001" npc_level="27"hp="300" />
+		<npc npc_id="14002" npc_name="袁绍" module_id="20002" npc_level="23"hp="350" />
+    </npclist>
+</root>
