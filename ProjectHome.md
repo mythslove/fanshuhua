@@ -1,0 +1,1 @@
+It contains some flash games and otherthings about flash.
